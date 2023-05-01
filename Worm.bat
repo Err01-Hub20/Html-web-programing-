@@ -1,6 +1,4 @@
 @ECHO OFF
-echo MsgBox " You got infected by Franks coronvirus ">x.vbs 
-start wscript x.vbs
 if exist c:\romp.bat goto end
 :start
 cls 
