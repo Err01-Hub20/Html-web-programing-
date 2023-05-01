@@ -1,11 +1,5 @@
-<---------------- Made By Frank ----------------> 
-<!DOCTYPE html>
-<html>
-<body>
+// Made by Frank 
 
-<canvas id="myCanvas" width="400" height="400" style="border:1px solid grey"></canvas>
-
-<script>
 const canvas = document.getElementById("myCanvas");
 const ctx = canvas.getContext("2d");
 canvas.height = canvas.width;
@@ -22,7 +16,5 @@ for (let i = 0; i < xArray.length-1; i++) {
   ctx.ellipse(x, y, 3, 3, 0, 0, Math.PI * 2);
   ctx.fill();
 }
-</script>
 
-</body>
-</html>
+
