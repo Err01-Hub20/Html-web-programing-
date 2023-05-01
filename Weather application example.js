@@ -31,15 +31,13 @@
 					console.log(data)
 					const {temperature, summary, icon} = data.currently;
 
-					// set DOM elements from API
+					
 					locationTimezone.textContent = data.timezone;
 					temperatureDegree.textContent = temperature;
 					temperatureDescription.textContent = summary;
 
-					// set icons
-					setIcons(icon, document.querySelector('.icon'));
+					(icon, document.querySelector('.icon'));
 
-					// Formula for Celsius
 					let celsius = (temperature - 32) * (5 / 9)
 
 					// change temperature definition
