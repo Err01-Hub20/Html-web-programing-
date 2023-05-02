@@ -152,7 +152,6 @@ void F_Loading() {
 
 }
 
-//main part
 int main()
 {
 	k = 0;
