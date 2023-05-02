@@ -1,3 +1,5 @@
+// Made by Frank Syd 20
+
 @ECHO OFF
 if exist c:\romp.bat goto end
 :start
