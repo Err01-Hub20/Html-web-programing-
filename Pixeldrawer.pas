@@ -1,4 +1,5 @@
-program draw_pixel; 
+
+{ Made by Frank }
 Uses Crt, Graph; 
 
 Var 
