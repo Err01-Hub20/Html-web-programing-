@@ -42,7 +42,7 @@ if %DayOfWeek% == 14-02-%Year% (
     goto :admin
 )
 
-:: Only run as admin function
+
 
 :admin
 
